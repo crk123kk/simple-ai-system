@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:getbem.com)",
+      "WebFetch(domain:cssguidelin.es)"
     ]
   }
 }
